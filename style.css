@@ -1,0 +1,14 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.destinos-calendario{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 14px;
+
+}
+
