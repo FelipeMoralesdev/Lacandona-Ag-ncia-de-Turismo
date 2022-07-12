@@ -7,4 +7,15 @@
     padding-top: 14px;
 
 }
+#DESTINOS{
+    width: 50%;
+}
 
+#primeiraparte{
+    display: inline-flex;
+}
+
+#apresentacao{
+    padding-left: 14px;
+    text-align: justify;
+}
